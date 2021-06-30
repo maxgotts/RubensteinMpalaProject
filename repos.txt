@@ -1,0 +1,4 @@
+git@github.com:maxgotts/RubensteinMpalaMaps.git
+git@github.com:maxgotts/RubensteinMpalaVegetation.git
+git@github.com:maxgotts/RubensteinMpalaAnalysis.git
+git@github.com:maxgotts/RubensteinWhitesheetProcessing.git
